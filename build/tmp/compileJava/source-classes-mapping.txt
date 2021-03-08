@@ -1,3 +1,6 @@
 ace/kafka/stream/StreamsMain.java
  ace.kafka.stream.StreamsMain
  ace.kafka.stream.StreamsMain$1
+ace/kafka/stream/StatelessTransformationsMain.java
+ ace.kafka.stream.StatelessTransformationsMain
+ ace.kafka.stream.StatelessTransformationsMain$1
